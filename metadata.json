@@ -1,0 +1,8 @@
+{
+  "name": "BuildMaster Pro - Quản lý Xây dựng",
+  "description": "Nền tảng quản lý xây dựng toàn diện cho các dự án, vật tư, nhân công và ngân sách.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
